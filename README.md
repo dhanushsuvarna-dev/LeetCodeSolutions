@@ -67,8 +67,13 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
