@@ -1,0 +1,36 @@
+class Solution {
+    public int[] exclusiveTime(int n, List<String> logs) {
+        
+        int[] ans = new int[n];
+        Stack<Integer> stack = new Stack<>();
+        int prevTime = 0;
+
+        for (String log : logs) {
+
+            String str[] = log.split(":");
+
+            int id = Integer.parseInt(str[0]);
+            String type = str[1];
+            int time = Integer.parseInt(str[2]);
+
+            if (type.equals("start")) {
+
+                if (!stack.isEmpty()) {
+                    ans[stack.peek()] += time - prevTime;
+                }
+
+                stack.push(id);
+                prevTime = time;
+
+            } else {
+
+                ans[stack.peek()] += time - prevTime + 1;
+
+                stack.pop();
+                prevTime = time + 1;
+            }
+        }
+
+        return ans;
+    }
+}
