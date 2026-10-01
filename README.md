@@ -66,6 +66,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -84,6 +85,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
@@ -116,4 +118,8 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
