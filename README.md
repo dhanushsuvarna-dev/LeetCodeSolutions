@@ -82,6 +82,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
@@ -99,4 +100,8 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
