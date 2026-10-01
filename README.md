@@ -58,6 +58,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0136-single-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -78,6 +79,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -92,9 +94,11 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -104,4 +108,12 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
