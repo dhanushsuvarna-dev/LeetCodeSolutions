@@ -57,6 +57,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -109,6 +110,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
