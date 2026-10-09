@@ -90,6 +90,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
@@ -116,6 +117,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +135,8 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
