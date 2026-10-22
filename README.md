@@ -76,6 +76,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0155-min-stack) |
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -161,4 +162,8 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
