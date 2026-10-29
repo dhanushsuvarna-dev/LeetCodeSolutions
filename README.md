@@ -86,6 +86,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [2409-count-days-spent-together](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
