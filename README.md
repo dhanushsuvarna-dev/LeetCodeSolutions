@@ -70,6 +70,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -172,6 +173,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
