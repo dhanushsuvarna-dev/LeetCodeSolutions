@@ -72,6 +72,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
