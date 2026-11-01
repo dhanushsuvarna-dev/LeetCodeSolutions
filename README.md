@@ -74,6 +74,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -109,6 +110,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2409-count-days-spent-together](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -121,6 +123,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0136-single-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +133,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -190,4 +194,5 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
