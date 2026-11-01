@@ -73,6 +73,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1480-running-sum-of-1d-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -135,6 +136,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
