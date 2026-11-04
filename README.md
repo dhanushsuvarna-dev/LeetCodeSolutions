@@ -66,6 +66,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
+| [0724-find-pivot-index](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -180,6 +181,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
