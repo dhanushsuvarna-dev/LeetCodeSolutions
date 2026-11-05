@@ -64,6 +64,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0209-minimum-size-subarray-sum](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0724-find-pivot-index](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
@@ -148,6 +149,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
