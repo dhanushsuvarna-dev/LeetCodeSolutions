@@ -79,6 +79,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1672-richest-customer-wealth](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -115,6 +116,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1773-count-items-matching-a-rule](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2409-count-days-spent-together](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
