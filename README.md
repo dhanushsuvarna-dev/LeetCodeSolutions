@@ -65,6 +65,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0219-contains-duplicate-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0724-find-pivot-index](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
@@ -163,6 +164,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
