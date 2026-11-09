@@ -1,5 +1,16 @@
 class Solution:
     def countMatches(self, items: list[list[str]], ruleKey: str, ruleValue: str) -> int:
-        place = {"type": 0, "color": 1, "name": 2}
+        count = 0
 
-        return sum(item[place[ruleKey]] == ruleValue for item in items)
+        if ruleKey == "type":
+            place = 0
+        elif ruleKey == "color":
+            place = 1
+        else:
+            place = 2
+
+        for item in items:
+            if item[place] == ruleValue:
+                count += 1
+
+        return count
