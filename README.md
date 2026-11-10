@@ -117,6 +117,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1108-defanging-an-ip-address](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2409-count-days-spent-together](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -140,6 +141,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
