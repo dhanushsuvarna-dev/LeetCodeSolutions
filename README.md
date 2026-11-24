@@ -82,6 +82,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1773-count-items-matching-a-rule) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2574-left-and-right-sum-differences](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
@@ -193,6 +194,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |
