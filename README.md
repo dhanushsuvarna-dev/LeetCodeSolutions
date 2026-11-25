@@ -56,6 +56,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0443-string-compression) |
@@ -214,4 +216,8 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
