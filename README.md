@@ -71,6 +71,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0724-find-pivot-index](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
