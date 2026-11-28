@@ -66,6 +66,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0219-contains-duplicate-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
@@ -142,6 +143,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0073-set-matrix-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -160,6 +162,7 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
@@ -168,11 +171,13 @@ If you are also preparing for DSA, feel free to explore the solutions and approa
 | [0074-search-a-2d-matrix](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhanushsuvarna-dev/LeetCodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
